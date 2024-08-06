@@ -10,7 +10,7 @@ Welcome to gkxi's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   openapi
 
 Indices and tables
 ==================
