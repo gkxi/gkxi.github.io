@@ -1,0 +1,6 @@
+*.exe
+.DS_Store
+.idea
+
+# Added by cargo
+/build
